@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/github/ranfdev/elefanto/js">
+    <file>main.js</file>
+    <file>window.js</file>
+    <file>mastodonApi.js</file>
+    <file>fetch.js</file>
+    <file>accounts.js</file>
+    <file>utils.js</file>
+  </gresource>
+</gresources>

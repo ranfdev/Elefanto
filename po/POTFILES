@@ -1,0 +1,7 @@
+data/com.github.ranfdev.elefanto.desktop.in
+data/com.github.ranfdev.elefanto.appdata.xml.in
+data/com.github.ranfdev.elefanto.gschema.xml
+src/window.ui
+src/main.js
+src/window.js
+

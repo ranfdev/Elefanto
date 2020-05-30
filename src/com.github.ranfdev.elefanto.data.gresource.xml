@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/github/ranfdev/elefanto">
+    <file>window.ui</file>
+    <file>ui/loginDialog.ui</file>
+    <file>ui/AccountsView.ui</file>
+    <file>ui/AccountRow.ui</file>
+    <file>ui/AccountView.ui</file>
+    <file>ui/Toot.ui</file>
+    <file>ui/TootTopBar.ui</file>
+    <file>ui/ExpandedStatus.ui</file>
+  </gresource>
+</gresources>
