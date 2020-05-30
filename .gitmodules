@@ -1,6 +1,6 @@
 [submodule "subprojects/libhandy"]
 	path = subprojects/libhandy
-	url = https://source.puri.sm/Librem5/libhandy.git
+	url = https://gitlab.gnome.org/GNOME/libhandy.git
 [submodule "libhandy"]
 	path = libhandy
 	url = ./subprojects/libhandy/
